@@ -29,3 +29,4 @@ setup /configure configuration.xml
 ```
 
 [Link](https://docs.microsoft.com/en-us/deployoffice/office2019/deploy#deploy-languages-for-office-2019 "Deploy Office 2019 (for IT Pros)")
+[GVLK](https://docs.microsoft.com/en-us/DeployOffice/vlactivation/gvlks "GVLKs for KMS")
